@@ -1,3 +1,5 @@
+package Chapter1;
+
 public class SwitchDemo {
     public static void main(String[] args) {
         int i;
