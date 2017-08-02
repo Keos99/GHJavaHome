@@ -1,7 +1,5 @@
 package Chapter1;
 
-import java.util.Scanner;
-
 public class Help3 {
     public static void main(String[] args) throws java.io.IOException {
         char choice;
