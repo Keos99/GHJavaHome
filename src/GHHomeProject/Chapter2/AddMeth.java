@@ -1,4 +1,4 @@
-package GHHomeProject.Chapter1.Chapter2;
+package GHHomeProject.Chapter2;
 
 class Vehicle99997 {
     int passengers;

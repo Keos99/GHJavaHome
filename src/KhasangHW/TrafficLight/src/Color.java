@@ -1,3 +1,5 @@
+package KhasangHW.TrafficLight.src;
+
 import java.util.Scanner;
 
 public class Color {

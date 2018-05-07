@@ -1,3 +1,7 @@
+package KhasangHW.TrafficLight.src;
+
+import KhasangHW.TrafficLight.src.Color;
+
 public class MyThread implements Runnable {
 
     Thread thread;

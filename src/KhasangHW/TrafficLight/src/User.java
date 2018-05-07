@@ -1,3 +1,7 @@
+package KhasangHW.TrafficLight.src;
+
+import KhasangHW.TrafficLight.src.Color;
+
 import java.util.Scanner;
 
 public class User {

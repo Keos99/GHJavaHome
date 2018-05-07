@@ -1,3 +1,5 @@
+package GeekUniversityHW.JavaProfessionalLevel.GBProfessionalLevelHW2.src;
+
 import java.sql.*;
 
 public class Queries {

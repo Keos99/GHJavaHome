@@ -1,3 +1,5 @@
+package GeekUniversityHW.JavaProfessionalLevel.GBProfessionalLevelHW1.src;
+
 public class MainBox {
     public static void main(String[] args) {
         Apple apple1 = new Apple();

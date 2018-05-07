@@ -1,3 +1,5 @@
+package GeekUniversityHW.JavaProfessionalLevel.GBProfessionalLevelHW1.src;
+
 abstract public class Fruit {
     float fruitweight;
 
