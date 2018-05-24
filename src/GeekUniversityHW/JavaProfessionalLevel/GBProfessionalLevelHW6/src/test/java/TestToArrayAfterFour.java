@@ -1,5 +1,6 @@
 package GeekUniversityHW.JavaProfessionalLevel.GBProfessionalLevelHW6.src.test.java;
 
+import GeekUniversityHW.JavaProfessionalLevel.GBProfessionalLevelHW6.src.main.java.ArrayToArray;
 import org.junit.Assert;
 import org.junit.Test;
 
