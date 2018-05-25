@@ -25,7 +25,7 @@ public class Main {
     public static void connect() {
         try {
             Class.forName("org.sqlite.JDBC");
-            connection = DriverManager.getConnection("jdbc:sqlite:DBHW6.db");
+            connection = DriverManager.getConnection("jdbc:sqlite:GBProfessionalLevelHW6.db");
             statement = connection.createStatement();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
